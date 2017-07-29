@@ -1,4 +1,5 @@
 # Indoor Routing Xamarin
+[Article Here](https://developers.arcgis.com/example-apps/indoor-routing-xamarin/)
 
 This repo provides an example app called Indoor Routing for iOS devices built in Xamarin with the [ArcGIS Runtime SDK for .NET](https://developers.arcgis.com/net/).  With some customization, you can change the app to use your indoor data and locators. Screenshots of the app and more detailed documentation can be found in the [Wiki](https://github.com/Esri/indoor-routing-xamarin/wiki/Indoor-Routing-with-Xamarin-for-iOS)
 ## Features
